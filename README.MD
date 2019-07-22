@@ -2,7 +2,7 @@
 
 
 
-![Agence de voyages](agences.jpg)
+![Agence de voyages](assets/agences.jpg)
 
 ## Objectif
 
